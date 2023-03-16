@@ -1,2 +1,3 @@
-# project1
-Core project 1
+# Project 2
+
+Luz Dobbins
