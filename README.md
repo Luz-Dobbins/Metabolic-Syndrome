@@ -57,7 +57,8 @@ Informational chart sourced from diabeticmealsplans.com (https://diabetesmealpla
 ##Metrics
 I used the KNeighbors matrics with PCA to get the best score of 82% accuracy on the test data. When I only used the KNeighbors it was stuck at a 81% accuracy
 
-Training accuracy: 0.8827777777777778
+Training accuracy: 0.8827777777777778 
+
 Testing accuracy: 0.826955074875208
 
 ### I belive that with more data we can look at future recommendations to patients health just from a blood work. 
