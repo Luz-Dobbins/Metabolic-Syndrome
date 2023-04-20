@@ -1,4 +1,4 @@
-# Project 2
+# Metabolic Syndrome
 
 Luz Dobbins
 
