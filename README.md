@@ -13,11 +13,8 @@ This graph shows the difference between men and women and how women carry more f
 
 ![image](https://user-images.githubusercontent.com/123646377/230627686-c2b4bedd-8ad4-43b8-be02-65e2918698e6.png)
 
-![image](https://user-images.githubusercontent.com/123646377/230627902-7dfa3636-8cd5-43dd-b904-3211c3273d3f.png)
 
-
-This graft shows the Blood Glucose levels per age of the patients in this dataset. I also added the normal, pre-diabetic, and Diabetic ranges, which is what Blook Glucose detects.
-Informational chart sourced from diabeticmealsplans.com (https://diabetesmealplans.com/5080/diabetes-blood-sugar-levels-chart-printable/)
+This graft shows the Blood Glucose levels per age of the patients in this dataset. 
 
 ## Metrics
 I used the KNeighbors matrics with PCA to get the best score of 82% accuracy on the test data. When I only used the KNeighbors, it was stuck at an 81% accuracy.
